@@ -37,7 +37,7 @@ City Official Requested Maps Advanced
 
 
 Dashboard of Bike Usage Metrics
-<img width="944" alt="Dashboard of Bike Usage Metrics" src="https://user-images.githubusercontent.com/96028923/171049001-d696b7a7-982d-48e9-8a0f-833c2415e8d8.png">
+<img width="956" alt="Dashboard of Bike Usage Metrics_Updated" src="https://user-images.githubusercontent.com/96028923/171053713-985cb11e-3fbc-42ae-b780-33ec6f4b91e6.png">
 
 
 
