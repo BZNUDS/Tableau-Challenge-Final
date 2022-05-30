@@ -2798,8 +2798,8 @@
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1550' minheight='1550' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='45' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98014' id='44' param='vert' type-v2='layout-flow' w='99002' x='499' y='993'>
+            <zone h='100000' id='47' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98014' id='46' param='vert' type-v2='layout-flow' w='99002' x='499' y='993'>
                 <zone fixed-size='271' h='33871' id='10' is-fixed='true' name='Bike Usage by Hour of the Day' w='49940' x='49940' y='496'>
                   <zone-style>
                     <format attr='border-color' value='#000000' />
