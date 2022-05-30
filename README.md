@@ -8,14 +8,14 @@ My Supporting files can be found using [GitHub]
 
 # Rubric for Citi Bikes Analytics: 
 
-Discovered Phenomenon Visualizations. The submitted Tableau workbook includes all of the following:
-✓ 4-10 total visualizations 
+## Discovered Phenomenon Visualizations. The submitted Tableau workbook includes all of the following:
+✓ 11 total visualizations (I know we only needed to do 4-10, but one that I added at the last minute (called Count of Monthly Rides) wasn't very significant, but I thouht it would help show a trend...and I didn't want to throw away any of my prior work:) 
 ✓ A total of 2 dashboards (1 for each phenomenon)
-✓ Data is cleaned (i.e. No outliers or bad data)
+✓ Data is cleaned (i.e. No outliers or bad data, Nulls removed)
 ✓ Visualizations can logically be used to discover the solved phenomenon (i.e. they are not just random visualizations) 	
 
 
-City Official Requested Maps. ADVANCED Visualization includes all of the following:
+## City Official Requested Maps. ADVANCED Visualization includes all of the following:
 ✓ Maps all bike stations
 ✓ Station markers indicate popularity in some way (color, size, etc.)
 ✓ Ability to change marker data based on month and year
@@ -23,7 +23,7 @@ City Official Requested Maps. ADVANCED Visualization includes all of the followi
 ✓ A write-up on the trends that were discovered while making the map
 
 
-Presentation. The Tableau story includes all of the following:
+## Presentation. The Tableau story includes all of the following:
 ✓ Phenomenon visualizations
 ✓ Phenomenon dashboards
 ✓ One of the city official’s requested maps
@@ -32,17 +32,17 @@ Presentation. The Tableau story includes all of the following:
 
 
 
-City Official Requested Maps Advanced
+# City Official Requested Maps Advanced
 <img width="956" alt="City Official Requested Maps Advanced" src="https://user-images.githubusercontent.com/96028923/171048876-c5e5afee-78bc-4d3c-86af-eda498661a80.png">
 
 
 
-Dashboard of Bike Usage Metrics
+# Dashboard of Bike Usage Metrics
 <img width="956" alt="Dashboard of Bike Usage Metrics_Updated" src="https://user-images.githubusercontent.com/96028923/171053713-985cb11e-3fbc-42ae-b780-33ec6f4b91e6.png">
 
 
 
-Dashboard of Most/Least Popular Stations
+# Dashboard of Most/Least Popular Stations
 <img width="955" alt="Dashboard of Most Least Popular Stations_Updated" src="https://user-images.githubusercontent.com/96028923/171054113-a2baa6cd-87a2-4d40-9e8c-cfcc6336631a.png">
 
 
