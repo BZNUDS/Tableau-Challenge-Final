@@ -42,7 +42,8 @@ Dashboard of Bike Usage Metrics
 
 
 Dashboard of Most/Least Popular Stations
-<img width="935" alt="Dashboard of Most Least Popular Stations" src="https://user-images.githubusercontent.com/96028923/171049153-8b030aef-5cc4-442e-8086-d87ecce00b18.png">
+<img width="955" alt="Dashboard of Most Least Popular Stations_Updated" src="https://user-images.githubusercontent.com/96028923/171054113-a2baa6cd-87a2-4d40-9e8c-cfcc6336631a.png">
+
 
 
 Map of Starting Stations
