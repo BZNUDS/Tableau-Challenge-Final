@@ -1,5 +1,9 @@
 # Tableau-Challenge-Final
 
+My Tableau Public files can be found using [Q1_2022-citibike_v_5_Offical_Maps_and_2_Dashboards] (https://public.tableau.com/authoring/Q1_2022-citibike_v_5_Offical_Maps_and_2_Dashboards/CityOfficialRequestedMaps-Advanced#1).
+
+My Supporting files can be found using [GitHub] 
+(https://github.com/BZNUDS/Tableau-Challenge-Final ).
 
 
 # Rubric for Citi Bikes Analytics: 
