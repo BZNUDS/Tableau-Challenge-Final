@@ -16,8 +16,8 @@ My Supporting files can be found using [GitHub]
 
 
 ## City Official Requested Maps. ADVANCED Visualization includes all of the following:
-✓ Maps all bike stations
-✓ Station markers indicate popularity in some way (color, size, etc.)
+✓ Maped all bike stations
+✓ Station markers indicate popularity by size of the filled in circle.
 ✓ Ability to change marker data based on month and year
 ✓ Sections are marked by zip code
 ✓ A write-up on the trends that were discovered while making the map
@@ -27,14 +27,14 @@ My Supporting files can be found using [GitHub]
 ✓ Phenomenon visualizations
 ✓ Phenomenon dashboards
 ✓ One of the city official’s requested maps
-✓ Arranged in a logical order (i.e. Visualizations for each phenomenon with each other, not all mixed up.)  	Presentation:
-
+✓ Arranged in a logical order (i.e. Visualizations for each phenomenon with each other, not all mixed up.) 
 
 
 
 # City Official Requested Maps Advanced
 <img width="956" alt="City Official Requested Maps Advanced" src="https://user-images.githubusercontent.com/96028923/171048876-c5e5afee-78bc-4d3c-86af-eda498661a80.png">
-
+I did the ADVANCED criteria to get the best greade possible. However, I also think it really helps tell the greater story. 
+One of the trends that helped me with this map was the popularity of the bike stations aoround Lower Mahattan area and the overall lack of usage of bike stations the further you get away form these key areas. While not every station falls into this cartegory, several key ones do. This analaysis is further supported by the "Dashboard of Most/Least Popular Stations". Another interesting trend is the use of Jersey City bike stations. While they don't make the top 10, they definately have several stations that are more commonly used than others...just like in NY City. 
 
 
 # Dashboard of Bike Usage Metrics
