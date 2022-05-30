@@ -1,6 +1,36 @@
 # Tableau-Challenge-Final
 
 
+
+# Rubric for Citi Bikes Analytics: 
+
+Discovered Phenomenon Visualizations	
+The submitted Tableau workbook includes all of the following:
+✓ 4-10 total visualizations 
+✓ A total of 2 dashboards (1 for each phenomenon)
+✓ Data is cleaned (i.e. No outliers or bad data)
+✓ Visualizations can logically be used to discover the solved phenomenon (i.e. they are not just random visualizations) 	
+
+
+City Official Requested Maps (Grade based on the map the student chose to make.)
+ADVANCED Visualization includes all of the following:
+✓ Maps all bike stations
+✓ Station markers indicate popularity in some way (color, size, etc.)
+✓ Ability to change marker data based on month and year
+✓ Sections are marked by zip code
+✓ A write-up on the trends that were discovered while making the map
+
+
+Presentation:
+The Tableau story includes all of the following:
+✓ Phenomenon visualizations
+✓ Phenomenon dashboards
+✓ One of the city official’s requested maps
+✓ Arranged in a logical order (i.e. Visualizations for each phenomenon with each other, not all mixed up.)  	Presentation:
+
+
+
+
 City Official Requested Maps Advanced
 <img width="956" alt="City Official Requested Maps Advanced" src="https://user-images.githubusercontent.com/96028923/171048876-c5e5afee-78bc-4d3c-86af-eda498661a80.png">
 
