@@ -1,6 +1,6 @@
 # Tableau-Challenge-Final
 
-My Tableau Public files can be found using https://public.tableau.com/app/profile/brian7742#!/ or [Q1_2022-citibike_v_5_Offical_Maps_and_2_Dashboards] (https://public.tableau.com/authoring/Q1_2022-citibike_v_5_Offical_Maps_and_2_Dashboards/CityOfficialRequestedMaps-Advanced#1).
+My Tableau Public files can be found using [Q1_2022-citibike_v_5_Offical_Maps_and_2_Dashboards] (https://public.tableau.com/app/profile/brian7742/viz/Q1_2022-citibike_v_5_Offical_Maps_and_2_Dashboards_updated/DashboardofBikeUsageMetrics).
 
 My Supporting files can be found using [GitHub] 
 (https://github.com/BZNUDS/Tableau-Challenge-Final ).
